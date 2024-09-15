@@ -18,4 +18,4 @@ iOS 정복 가즈아-!
 |![](https://avatars.githubusercontent.com/u/105254025?v=4)|![](https://avatars.githubusercontent.com/u/61182499?v=4)|![](https://avatars.githubusercontent.com/u/101041221?v=4)|
 
 # 주제
-1. WWDC24
+1. [WWDC24](https://github.com/jinaiOS/iOS-Study/tree/main/Week1)
