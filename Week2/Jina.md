@@ -32,7 +32,7 @@
 
 <img width="1250" alt="스크린샷 2024-09-09 오후 1 24 49" src="https://github.com/user-attachments/assets/111f09b5-eb70-4322-b71d-64e0c8c9cbb1">
 
-
+# 인앱 결제 실행하기
 ```swift
 @MainActor
 class StoreManager: ObservableObject {
@@ -80,7 +80,7 @@ class StoreManager: ObservableObject {
     }
 }
 ```
-
+## 결과 디버그
 ```swift
 Purchase successful: {
   "header" : {
@@ -118,3 +118,6 @@ Purchase successful: {
   "signature" : "64 bytes (verified)"
 }
 ```
+# StoreKit -> StoreKit2
+- StoreKit: 기존 StoreKit은 주로 UIKit 기반의 앱에서 사용되며, 복잡한 콜백 구조를 가지고 있어 비동기 작업을 처리하는 데 어려움
+- StoreKit 2: StoreKit 2는 Swift의 새로운 동시성 모델을 활용하여 비동기 작업을 더 쉽게 처리할 수 있도록 설계됨. async/await 구문을 사용하여 코드의 가독성이 높아짐
