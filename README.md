@@ -21,3 +21,4 @@ iOS 정복 가즈아-!
 1. [WWDC24](https://github.com/jinaiOS/iOS-Study/tree/main/Week1)
 2. [StoreKit2](https://github.com/jinaiOS/iOS-Study/blob/main/Week2/Jina.md)
 3. [CryptoKit](https://github.com/jinaiOS/iOS-Study/blob/main/Week2/z-wook.md)
+4. [AVFoundation](https://github.com/jinaiOS/iOS-Study/blob/main/Week2/pinocchio.md)
